@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Fishbowl</title>
+<id>tag:chrisdirk.is,2026:fishbowl</id>
+<updated>2026-09-26T19:49:48+10:00</updated>
+<author><name>Fishbowl</name></author>
+<link rel="self" type="application/atom+xml" href="https://www.chrisdirk.is/fishbowl-stage/chronicle.xml"/>
+<link rel="alternate" type="text/html" href="https://www.chrisdirk.is/fishbowl-stage/"/>
+<entry>
+<title>Day 1: The Girl Who Walked a Half Step Ahead</title>
+<id>tag:chrisdirk.is,2026:fishbowl:day-0001</id>
+<published>2026-09-26T19:49:48+10:00</published>
+<updated>2026-09-26T19:49:48+10:00</updated>
+<link rel="alternate" type="text/html" href="https://www.chrisdirk.is/fishbowl-stage/days/0001.html"/>
+<content type="html">&lt;blockquote&gt;Lower Bridge shelter closed for repairs until further notice. Please allow extra time.&lt;cite&gt;a River Tram service notice&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;article&gt;
+&lt;p&gt;At four in the morning the downstairs neighbour sent a message. Hoshi had been yowling at the same corner of the flat for an hour. Come and deal with your cat.&lt;/p&gt;
+&lt;p&gt;Isabel was dressed before she woke Natalie. She said the cat needed her. She named the bridge she would take and how long it would be. She said nothing else. Her keys were already in her hand.&lt;/p&gt;
+&lt;p&gt;Natalie got up and put on her coat. No one had asked her to. She said she would walk with her, and held the door.&lt;/p&gt;
+&lt;p&gt;The rain came off the river sideways. The south ridge towers blinked red through it. They crossed at the lower bridge, where there was no shelter. Natalie&amp;#39;s coat was not made for weather. By the second street it was black with water at the shoulders and cuffs, and her shoes had filled. She put her hands in her pockets. They did not stop shaking.&lt;/p&gt;
+&lt;p&gt;Isabel walked a half step ahead the whole way.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Isabel&amp;#39;s downstairs neighbour messages at four in the morning to say Hoshi has been yowling at the same corner of the flat for an hour, and asks her to come and deal with her cat. &lt;span class=&quot;roll&quot;&gt;(clean, risky, rolled 6)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Isabel wakes Natalie, says only that the cat needs her, and leaves the flat without mentioning last night or the kiss. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 4)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel and Natalie -1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie pulls on her coat without being asked and quietly offers to walk with Isabel through the rain to her flat. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: soaked through and chilled to the bone, out in the sideways rain at four in the morning on no sleep&lt;/li&gt;&lt;li&gt;Isabel now believes: That Natalie came with her out of pity, and that Natalie&amp;#39;s silence about the kiss means she has decided it was a mistake.&lt;/li&gt;&lt;li&gt;Natalie now believes: That going with her tonight is what stands between Isabel and the thing Natalie did at twenty-six.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
+</feed>
