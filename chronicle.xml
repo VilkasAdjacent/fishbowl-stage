@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Fishbowl</title>
-<id>tag:chrisdirk.is,2026:fishbowl</id>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
 <updated>2026-09-26T19:49:48+10:00</updated>
 <author><name>Fishbowl</name></author>
-<link rel="self" type="application/atom+xml" href="https://www.chrisdirk.is/fishbowl-stage/chronicle.xml"/>
-<link rel="alternate" type="text/html" href="https://www.chrisdirk.is/fishbowl-stage/"/>
+<link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Day 2: The Girl Who Was Called Away Across the Water</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0002</id>
+<published>2026-09-26T10:41:05.864Z</published>
+<updated>2026-09-26T10:41:05.864Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0002.html"/>
+<content type="html">&lt;blockquote&gt;Old core residents: do not cross flooded canals on foot. Move to higher floors. Do not reply to this message.&lt;cite&gt;a municipal flood alert, sent 1:12 a.m.&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;article&gt;
+&lt;p&gt;Past midnight the river went over the lip of the old core&amp;#39;s lowest canal. Water stood in the street to the height of a kerb, then a step.&lt;/p&gt;
+&lt;p&gt;Natalie and Isabel were at a corner in the north lanes. Something in the brickwork there might have needed cutting. Neither had decided. Then Natalie&amp;#39;s patch stirred near the canal bridge, hard and low, and her line pulled her south across the city. She went. She told Isabel to wait and not to touch it.&lt;/p&gt;
+&lt;p&gt;Isabel waited eleven minutes. Then she put on the line&amp;#39;s shape and made the cut herself. The thing in the brick was the Hundred and Ninth: Creeping Knotweed. Her hands shook before she started. Halfway through they gave out. The cut hung open in the wall, copper at its edges, not finished.&lt;/p&gt;
+&lt;p&gt;She stayed in the line&amp;#39;s shape after that, standing in the water.&lt;/p&gt;
+&lt;p&gt;Natalie came back up the lanes at a run, wet to the knee. She stepped between Isabel and the wall and took the cut out of her hands. It bit back. A burn went across both of Natalie&amp;#39;s palms, copper-dark, on top of the cold. The cut closed crooked.&lt;/p&gt;
+&lt;p&gt;The patch at the canal bridge had gone quiet by then. No one went to see what it had done.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The river breaks its banks at the old core&amp;#39;s lowest canal in the storm, and Natalie feels her patch stir hard and deep near the canal bridge; her line pulls her back across the city while Isabel stands at a north-lanes corner that might need a cut. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 3)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel and Natalie -1&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie went still and far away at the corner — she&amp;#39;s already decided to leave, and it&amp;#39;s because of something Isabel did.&lt;/li&gt;&lt;li&gt;Natalie now believes: The old core is awake and pulling her back — the canal bridge is where the trouble is.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isabel gets her shaking hands into the corner cut herself, before Natalie can check it.
+&lt;ul&gt;&lt;li&gt;Isabel&amp;#39;s hands give out on a cut +1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie steps in front of Isabel and takes the cut out of her shaking hands. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 2, 3)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: takes the blight cut into her own hands at the flooded corner and it bites back — a burn across her hands on top of the cold&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie took the cut out of her hands because she&amp;#39;s decided Isabel can&amp;#39;t be trusted with the work.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Day 1: The Girl Who Walked a Half Step Ahead</title>
-<id>tag:chrisdirk.is,2026:fishbowl:day-0001</id>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0001</id>
 <published>2026-09-26T19:49:48+10:00</published>
 <updated>2026-09-26T19:49:48+10:00</updated>
-<link rel="alternate" type="text/html" href="https://www.chrisdirk.is/fishbowl-stage/days/0001.html"/>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0001.html"/>
 <content type="html">&lt;blockquote&gt;Lower Bridge shelter closed for repairs until further notice. Please allow extra time.&lt;cite&gt;a River Tram service notice&lt;/cite&gt;&lt;/blockquote&gt;
 &lt;article&gt;
 &lt;p&gt;At four in the morning the downstairs neighbour sent a message. Hoshi had been yowling at the same corner of the flat for an hour. Come and deal with your cat.&lt;/p&gt;
