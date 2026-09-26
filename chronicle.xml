@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Fishbowl</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-09-26T19:49:48+10:00</updated>
+<updated>2026-09-26T22:00:16.833Z</updated>
 <author><name>Fishbowl</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Day 3: The Girl Who Would Not Stay Put</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0003</id>
+<published>2026-09-26T22:00:16.833Z</published>
+<updated>2026-09-26T22:00:16.833Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0003.html"/>
+<content type="html">&lt;blockquote&gt;Linden Rise Drain Lake. No swimming. No fishing. Dogs on leads at all times.&lt;cite&gt;a council sign at the lake&amp;#39;s east gate&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0003.webp&quot; alt=&quot;Two bandaged hands resting palm-up on a folded towel in lamplight.&quot;/&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;The desk lamp was the only light in the flat, amber on the wood. Rain drove against the window from the river side. Across the water the south ridge towers kept their red pulse.&lt;/p&gt;
+&lt;p&gt;Natalie sat with her hands palm-up on a folded towel. The dressings were two days old. Isabel had changed them once and was due to again at one.&lt;/p&gt;
+&lt;p&gt;Isabel put the roll of gauze down. She asked whether Natalie had taken the cut out of her hands because of last night. She said the word kiss. Then she picked the gauze back up.&lt;/p&gt;
+&lt;p&gt;Natalie did not answer.&lt;/p&gt;
+&lt;p&gt;Isabel&amp;#39;s phone lit blue on the desk. A post in Bay Sightings, from a handle with no history. Something big near the drain lake at Linden Rise. Is it ok to go alone.&lt;/p&gt;
+&lt;p&gt;The same minute, in the north lanes, the Hundred and Ninth: Creeping Knotweed grew nerves again, through the crooked seam where it had been closed.&lt;/p&gt;
+&lt;p&gt;Isabel read the post aloud. She read out the tram line, the stop, the walk from the stop to the east gate, fourteen minutes in this weather.&lt;/p&gt;
+&lt;p&gt;Natalie stood. She took Isabel&amp;#39;s coat off the chair and the phone off the desk, one in each hand. The grip split the burn across both palms. Blood came through the gauze and onto the collar of the coat. She said stay here. She said it twice.&lt;/p&gt;
+&lt;p&gt;Isabel took her spare coat from the hook by the door. The route was already in her head. She was down the first flight of stairs before Natalie had the door shut behind her.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A first-ever post from an unknown handle lands in Bay Sightings — something big near the drain lake at Linden Rise, is it ok to go alone — and Isabel&amp;#39;s phone lights up on the desk with it, and whatever is out there near the water has now been seen. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Blight in the north lanes grows nerves again +1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isabel asks Natalie point-blank whether she took the cut out of her hands because of last night, and the question is out of her mouth and cannot be put back. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel lost the silence she had kept about the kiss — she has asked the question out loud and it cannot be taken back&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie lifts Isabel&amp;#39;s coat and phone off the desk and orders her to stay put, and the grab splits the burn across her palms, and the order doesn&amp;#39;t hold. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 3, 3)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across her palms, split open again when she grabbed Iz&amp;#39;s coat and phone off the desk&lt;/li&gt;&lt;li&gt;Isabel and Natalie -1&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie took the cut out of her hands and then took her coat and her phone off the desk because of last night — the kiss is why she can&amp;#39;t be trusted with the work.&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie has already decided about the kiss and isn&amp;#39;t going to say it; the coat and the phone off the desk are the answer.&lt;/li&gt;&lt;li&gt;Natalie now believes: Ordering Iz to stay put has never held anyone, and it has just cost her the use of her hands again.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Day 2: The Girl Who Was Called Away Across the Water</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0002</id>
@@ -13,6 +44,7 @@
 <updated>2026-09-26T10:41:05.864Z</updated>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0002.html"/>
 <content type="html">&lt;blockquote&gt;Old core residents: do not cross flooded canals on foot. Move to higher floors. Do not reply to this message.&lt;cite&gt;a municipal flood alert, sent 1:12 a.m.&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0002.webp&quot; alt=&quot;A crooked seam glowing faintly copper runs across old bricks just above floodwater.&quot;/&gt;&lt;/figure&gt;
 &lt;article&gt;
 &lt;p&gt;Past midnight the river went over the lip of the old core&amp;#39;s lowest canal. Water stood in the street to the height of a kerb, then a step.&lt;/p&gt;
 &lt;p&gt;Natalie and Isabel were at a corner in the north lanes. Something in the brickwork there might have needed cutting. Neither had decided. Then Natalie&amp;#39;s patch stirred near the canal bridge, hard and low, and her line pulled her south across the city. She went. She told Isabel to wait and not to touch it.&lt;/p&gt;
@@ -40,6 +72,7 @@
 <updated>2026-09-26T19:49:48+10:00</updated>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0001.html"/>
 <content type="html">&lt;blockquote&gt;Lower Bridge shelter closed for repairs until further notice. Please allow extra time.&lt;cite&gt;a River Tram service notice&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0001.webp&quot; alt=&quot;Distant towers on a ridge blink red through slanting rain.&quot;/&gt;&lt;/figure&gt;
 &lt;article&gt;
 &lt;p&gt;At four in the morning the downstairs neighbour sent a message. Hoshi had been yowling at the same corner of the flat for an hour. Come and deal with your cat.&lt;/p&gt;
 &lt;p&gt;Isabel was dressed before she woke Natalie. She said the cat needed her. She named the bridge she would take and how long it would be. She said nothing else. Her keys were already in her hand.&lt;/p&gt;
