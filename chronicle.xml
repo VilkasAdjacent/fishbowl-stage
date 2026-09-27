@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Fishbowl</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-09-26T22:00:16.833Z</updated>
+<updated>2026-09-27T21:54:54.933Z</updated>
 <author><name>Fishbowl</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Day 4: The Girl Who Held the Door Shut</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0004</id>
+<published>2026-09-27T21:54:54.933Z</published>
+<updated>2026-09-27T21:54:54.933Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0004.html"/>
+<content type="html">&lt;blockquote&gt;Plant into the burn.&lt;cite&gt;a Second Growth sticker on a bus shelter&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0004.webp&quot; alt=&quot;Seen from a fire stair above, a coatless girl crouches by a flowering planter in a rainy lane.&quot;/&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;At the desk Isabel asked again about the kiss.&lt;/p&gt;
+&lt;p&gt;Natalie did not answer. She took Isabel&amp;#39;s coat from the chair and the phone from the desk and carried them into the bathroom. The door stuck on its swollen frame. She set both palms flat against it and pushed until the lock caught. The burn opened under the wrap and wept through. Afterward she could not close her fingers.&lt;/p&gt;
+&lt;p&gt;Before morning the ash under the fire stair, left from Isabel&amp;#39;s blaze-out, sent green into every dead planter box and cracked grate in the lane. Stems came up through the drains. Buds opened in midwinter. Neighbours came down in raincoats and slippers and held their phones over it. The photos went into Isabel&amp;#39;s chat one after another. Behind the bathroom door the phone lit blue and buzzed against the tiles.&lt;/p&gt;
+&lt;p&gt;In the north lanes the Hundred and Ninth: Creeping Knotweed grew nerves again.&lt;/p&gt;
+&lt;p&gt;Isabel went down with no coat. The lane was full of people and leaves. She crouched at the first planter and did not get up for a long time. The drizzle had turned to rain. It soaked her to the skin. When she climbed back up she was shaking harder than when she had gone down. Her hands had stiffened in the cold and would not hold the rail.&lt;/p&gt;
+&lt;p&gt;Off Linden Rise, Amara Nwosu followed a buzz down into the wet dark. She told no one. She came out in a lane she did not know, shoes full of water. Nothing had been cut.&lt;/p&gt;
+&lt;p&gt;Hyejin Park wrote to a novice girl. Three messages: what it costs, how girls die, that nobody is coming. The girl started a reply and stopped partway through a sentence. Nothing else came from that handle. Hyejin had her own three messages on the screen. The girl stayed home.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The ash from Isabel&amp;#39;s blaze-out under the fire stair drives every dead planter box and cracked grate in the lane into flower overnight, in midwinter; the neighbours come out in the rain with their phones, and the photos land in Isabel&amp;#39;s chat. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 4)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Blight in the north lanes grows nerves again +1&lt;/li&gt;&lt;li&gt;Natalie now believes: Flowers in midwinter off a burned-out cut mean the ground in that lane has gone fat, and the blight will come for it — she will have to walk the lane herself before it does.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amara follows the buzz down into the wet dark off Linden Rise alone, telling no one, and comes out in a lane she doesn&amp;#39;t know with her shoes full of water and nothing cut.
+&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: Whatever is at the far end of the buzz is no bigger than the last two, and she can take it alone without anyone at home ever knowing.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin sends a novice girl the plain version nobody sent her — what it costs, how girls die, that nobody is coming — and the girl goes quiet and stays home. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, controlled, rolled 2, 4)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park lost the girl&amp;#39;s replies — the thread goes dead mid-sentence and Hyejin is left with her own three blunt messages and no one at that handle who will ever write to her again&lt;/li&gt;&lt;li&gt;Hyejin Park now believes: The girl stayed home — one more who won&amp;#39;t die learning alone, and the warning did what a warning can do.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isabel goes down in the rain to the fire-stair lane to look at midwinter flowers the ash from her blaze-out put there, while the neighbours are still out photographing them. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, controlled, rolled 4, 3)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel hurt: down in the sideways rain on no sleep: soaked to the skin and shaking harder than when she left, hands aching and stiff in the cold&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie refuses to answer Isabel about the kiss — she takes Isabel&amp;#39;s coat and phone and locks them in the bathroom instead — and the burn across both palms splits open again forcing the door. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 2, 2)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across both palms splits open again forcing the bathroom door shut, weeping through the wrap, and she can&amp;#39;t properly close her fingers (2)&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie locked her coat and her phone in the bathroom rather than answer, so the kiss is the answer — Natalie has decided it was a mistake, and so is she.&lt;/li&gt;&lt;li&gt;Natalie now believes: Locking the phone in the bathroom bought a night, not an answer; Iz will read the door as the answer and act on it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Day 3: The Girl Who Would Not Stay Put</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0003</id>
