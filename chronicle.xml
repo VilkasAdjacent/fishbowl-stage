@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Fishbowl</title>
+<title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-09-28T23:48:17.102Z</updated>
-<author><name>Fishbowl</name></author>
+<updated>2026-09-29T09:59:57.106Z</updated>
+<author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
 <entry>
-<title>Day 5: The Girl Who Drank the Tea to the Bottom</title>
+<title>Ironwood · Day 6: The Tram That Went North Warm and Empty</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0006</id>
+<published>2026-09-29T09:59:57.106Z</published>
+<updated>2026-09-29T09:59:57.106Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0006.html"/>
+<content type="html">&lt;blockquote&gt;Driver cannot wait for passengers not at the doors.&lt;cite&gt;a sticker beside the front doors of a river tram&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0006.webp&quot; alt=&quot;A plain door latch lit from the side by a lamp.&quot;/&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;The last river tram of the night came late on its flood diversion and stopped at the canal bridge. Under the bridge the water ran high and brown. Isabel had walked down from the lane without a coat and stood in the rain by the stop pole. Her shirt was stuck flat to her back.&lt;/p&gt;
+&lt;p&gt;The driver was old, grey stubble, a cardigan under his uniform jacket. He opened the doors and looked at her once. He reached across and turned the heater dial as far as it would go. When she began to say she had no card, he lifted one hand off the wheel and waved it away.&lt;/p&gt;
+&lt;p&gt;He had looked at her once and waved her in like it cost him nothing. Either he could see she had nothing, or he felt sorry for her. Either way he had seen her.&lt;/p&gt;
+&lt;p&gt;Warm air came down out of the step well. Isabel put her right hand to the rail. The fingers would not close. She tried the left. It stayed open too, the knuckles white, the palm flat on the wet steel. She had worked it out already: the step, the rail, the seat by the heater, the stop nearest the flat. She could not get past the rail.&lt;/p&gt;
+&lt;p&gt;The doors ran on a timer. They folded shut in front of her face. The driver checked his mirror, then the clock on his board, and the tram pulled away north along the diversion, lit end to end, no one aboard, steam on the inside of the glass. Isabel stayed at the kerb where the step had been. The cold she had carried down went further in. She was shaking worse than when she had reached the bridge.&lt;/p&gt;
+&lt;p&gt;In her bedroom Amara Nwosu lay with the light off and called her staff. It came into her hand with copper along the grain and made no sound. Her parents slept two walls away. Through the second wall she could hear her father cough. She held the staff and counted. Past three hundred she stopped moving her lips and went on in her head. No door opened. No one came along the landing. When she let it go she wrote the number on the back of her wrist in biro.&lt;/p&gt;
+&lt;p&gt;On the fringe estates the rain came as drizzle. Hyejin Park had wired the frames and weighted the tunnel skirts the night before. She went into her quarters at the edge of the plots, hung her jacket on a nail and slept. The frames held.&lt;/p&gt;
+&lt;p&gt;In the flat the desk lamp was on, amber on the wood. Natalie had put her shoes on. Her palms were still bound in kitchen towel and black tape. Something down at the water had hold of her. She went to the door and took the latch. Her fingers would not shut on it. She forced them round with the heel of the other hand, and the burn split open across both palms under the tape. The latch did not turn. She sat down on the mat with her hands open on her knees. Through the window the south ridge towers blinked red, and the night went by her there.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The last river tram of the night, running late on a flood diversion, stops at the canal bridge, and the old driver opens the doors on the soaked girl, turns the heater up full and waves off the fare. &lt;span class=&quot;roll&quot;&gt;(clean, risky, rolled 6)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Amara calls her staff in the dark of her bedroom and holds it, counting, to find out how long she can keep it up with her parents two walls away.
+&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: She can hold the staff a little longer every night in her own room in the dark, and no one in the house can tell anything at all.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin retreats into her dry quarters at the edge of the plots and sleeps through the driving rain while the frames hold.&lt;/li&gt;
+&lt;li&gt;Isabel stands at the tram step and cannot make her cold-stiff hands take the rail; the doors shut on her and the tram pulls away north, warm and empty, leaving her at the canal bridge in the rain. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 3, 2)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel hurt: she stood at the step with her hands too stiff to take the rail and the cold she was already carrying goes deeper; she is shaking harder than when she walked down&lt;/li&gt;&lt;li&gt;Isabel now believes: The driver shut the doors on her and the tram went north without her, so the lane has seen what she is and is done with her.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie gets as far as the door of the flat with both palms taped, following the pull toward the water, and cannot make her hands work the latch; she stays in with the burn split open again and the night gone. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 4, 3)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie lost the way out — she could not get past the latch, so the pull stays on her and she spends the night in the flat she meant to leave&lt;/li&gt;&lt;li&gt;Natalie hurt: forcing the latch splits the burn across both palms open under the tape again, and she still cannot properly close her fingers&lt;/li&gt;&lt;li&gt;Natalie now believes: If she gets the wrap tighter she can still make the canal bridge before light — it was the tape that failed her, not her.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
+<entry>
+<title>Ironwood · Day 5: The Girl Who Drank the Tea to the Bottom</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0005</id>
 <published>2026-09-28T23:48:17.102Z</published>
 <updated>2026-09-28T23:48:17.102Z</updated>
@@ -41,7 +73,7 @@
 &lt;/section&gt;</content>
 </entry>
 <entry>
-<title>Day 4: The Girl Who Held the Door Shut</title>
+<title>Ironwood · Day 4: The Girl Who Held the Door Shut</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0004</id>
 <published>2026-09-27T21:54:54.933Z</published>
 <updated>2026-09-27T21:54:54.933Z</updated>
@@ -74,7 +106,7 @@
 &lt;/section&gt;</content>
 </entry>
 <entry>
-<title>Day 3: The Girl Who Would Not Stay Put</title>
+<title>Ironwood · Day 3: The Girl Who Would Not Stay Put</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0003</id>
 <published>2026-09-26T22:00:16.833Z</published>
 <updated>2026-09-26T22:00:16.833Z</updated>
@@ -105,7 +137,7 @@
 &lt;/section&gt;</content>
 </entry>
 <entry>
-<title>Day 2: The Girl Who Was Called Away Across the Water</title>
+<title>Ironwood · Day 2: The Girl Who Was Called Away Across the Water</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0002</id>
 <published>2026-09-26T10:41:05.864Z</published>
 <updated>2026-09-26T10:41:05.864Z</updated>
@@ -133,7 +165,7 @@
 &lt;/section&gt;</content>
 </entry>
 <entry>
-<title>Day 1: The Girl Who Walked a Half Step Ahead</title>
+<title>Ironwood · Day 1: The Girl Who Walked a Half Step Ahead</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0001</id>
 <published>2026-09-26T19:49:48+10:00</published>
 <updated>2026-09-26T19:49:48+10:00</updated>
