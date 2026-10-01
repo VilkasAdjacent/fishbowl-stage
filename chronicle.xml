@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-09-30T22:50:34.891Z</updated>
+<updated>2026-10-01T10:35:20.709Z</updated>
 <author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Ironwood · Day 10: The Woman Who Gave the Camera an Answer</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0010</id>
+<published>2026-10-01T10:35:20.709Z</published>
+<updated>2026-10-01T10:35:20.709Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0010.html"/>
+<content type="html">&lt;blockquote&gt;Dr Lau is still with us. Ask her anything.&lt;cite&gt;a Continuity screen at the Tangle fence&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0010.webp&quot; alt=&quot;Meltwater runs into a kerbside drain grate, with a tiny red light reflected in the wet paving.&quot;/&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;A day on, the frost went to wet on the footpaths, and meltwater ran in the estate drains.&lt;/p&gt;
+&lt;p&gt;Before first bell at Linden Rise, Amara Nwosu cut her forearm twice, small and clean, on the line the grate had opened. The old cut reopened under the tie.&lt;/p&gt;
+&lt;p&gt;Small ones. Clean. Nobody had seen and nobody had asked, so it was still hers. The second had felt smaller than the first, and that only meant the standard was closer.&lt;/p&gt;
+&lt;p&gt;At break she bolted herself into a toilet cubicle, washed the arm, wound the tie tight over it, and came out with her sleeve down and nothing on her face.&lt;/p&gt;
+&lt;p&gt;The council unveiled the anniversary plaque at the Tangle fence: brass, with Dr Catherine Lau&amp;#39;s name cut into it, her avatar talking from a blue screen beside it. A campaign journalist had his camera on Hyejin Park before he asked what she remembered of the night the block went green. She answered before she could stop herself, on the record. He had her face, her plot and her answer now.&lt;/p&gt;
+&lt;p&gt;Afterward she walked down to the old canal bridge. The lid of the iron hatch was down. She passed it without lifting it. Underneath, the freezing girl stayed where she was, off the lane.&lt;/p&gt;
+&lt;p&gt;Elspeth Hale went up into the north lanes to see the blight before anyone had registered it. The cut stood half-done. Past it the growth had spread, green over the ash, where the line had gone quiet.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amara takes a cut she can&amp;#39;t handle alone — two small clean cuts, on her own, each one making the next feel smaller than it is — and the amara-alone count fills: she is now in the middle of something bigger than her. &lt;span class=&quot;roll&quot;&gt;(failure)&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Amara takes a cut she can&amp;#39;t handle alone +3&lt;/li&gt;&lt;li&gt;Amara Nwosu hurt: two fresh cuts on the forearm, in the same place the grate opened, reopening the line under the tie&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: Two small cuts and she took them alone — the next will be smaller still, and the standard is close enough to reach without anyone at home ever knowing.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;At the Tangle fence the council unveils the 2035 anniversary plaque — brass naming Dr Catherine Lau, her avatar speaking from a screen beside it — and when a campaign journalist turns his camera on Hyejin and asks what she remembers of the night the block went green, the pressure beats her: she answers before she can stop herself, on the record. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park lost her quiet — the campaign now has her face, her plot, and her answer on record&lt;/li&gt;&lt;li&gt;Hyejin Park shaken&lt;/li&gt;&lt;li&gt;Hyejin Park now believes: The journalist got his answer and will not come back — the question is closed and she is out of it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;At break Amara locks herself in a toilet cubicle, washes the cuts on her forearm and winds the makeshift bandage tight, and comes out with her sleeve down and nothing on her face.
+&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: The bandage and the sleeve are enough — she can keep the whole of it behind the stall door and no one will ever have to know.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Elspeth Hale walks up into the north lanes to see the blight for herself before anyone registers it — the cut still half-done, the growth already spread where the line has gone quiet.
+&lt;ul&gt;&lt;li&gt;Elspeth Hale now believes: The north lanes blight is spreading as blight always does where a line has gone quiet, and once she has entered it the register will be right again.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin Park walks the canal bridge in the cold and passes the iron hatch without lifting the lid, leaving the freezing girl underneath — the girl stays off the lane, and Hyejin keeps walking. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, desperate, rolled 4 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park now believes: A girl who stays under the hatch has taken herself off the lane, and walking past is the same as the warning doing its work.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Ironwood · Day 9: The Girl Who Asked for the Route Home</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0009</id>
@@ -201,7 +234,7 @@
 &lt;p&gt;At the desk Isabel asked again about the kiss.&lt;/p&gt;
 &lt;p&gt;Natalie did not answer. She took Isabel&amp;#39;s coat from the chair and the phone from the desk and carried them into the bathroom. The door stuck on its swollen frame. She set both palms flat against it and pushed until the lock caught. The burn opened under the wrap and wept through. Afterward she could not close her fingers.&lt;/p&gt;
 &lt;p&gt;Before morning the ash under the fire stair, left from Isabel&amp;#39;s blaze-out, sent green into every dead planter box and cracked grate in the lane. Stems came up through the drains. Buds opened in midwinter. Neighbours came down in raincoats and slippers and held their phones over it. The photos went into Isabel&amp;#39;s chat one after another. Behind the bathroom door the phone lit blue and buzzed against the tiles.&lt;/p&gt;
-&lt;p&gt;In the north lanes the Hundred and Ninth: Creeping Knotweed grew nerves again.&lt;/p&gt;
+&lt;p&gt;In the north lanes the blight in the brick grew nerves again.&lt;/p&gt;
 &lt;p&gt;Isabel went down with no coat. The lane was full of people and leaves. She crouched at the first planter and did not get up for a long time. The drizzle had turned to rain. It soaked her to the skin. When she climbed back up she was shaking harder than when she had gone down. Her hands had stiffened in the cold and would not hold the rail.&lt;/p&gt;
 &lt;p&gt;Off Linden Rise, Amara Nwosu followed a buzz down into the wet dark. She told no one. She came out in a lane she did not know, shoes full of water. Nothing had been cut.&lt;/p&gt;
 &lt;p&gt;Hyejin Park wrote to a novice girl. Three messages: what it costs, how girls die, that nobody is coming. The girl started a reply and stopped partway through a sentence. Nothing else came from that handle. Hyejin had her own three messages on the screen. The girl stayed home.&lt;/p&gt;
@@ -236,7 +269,7 @@
 &lt;p&gt;Isabel put the roll of gauze down. She asked whether Natalie had taken the cut out of her hands because of last night. She said the word kiss. Then she picked the gauze back up.&lt;/p&gt;
 &lt;p&gt;Natalie did not answer.&lt;/p&gt;
 &lt;p&gt;Isabel&amp;#39;s phone lit blue on the desk. A post in Bay Sightings, from a handle with no history. Something big near the drain lake at Linden Rise. Is it ok to go alone.&lt;/p&gt;
-&lt;p&gt;The same minute, in the north lanes, the Hundred and Ninth: Creeping Knotweed grew nerves again, through the crooked seam where it had been closed.&lt;/p&gt;
+&lt;p&gt;The same minute, in the north lanes, the blight in the brick grew nerves again, through the crooked seam where it had been closed.&lt;/p&gt;
 &lt;p&gt;Isabel read the post aloud. She read out the tram line, the stop, the walk from the stop to the east gate, fourteen minutes in this weather.&lt;/p&gt;
 &lt;p&gt;Natalie stood. She took Isabel&amp;#39;s coat off the chair and the phone off the desk, one in each hand. The grip split the burn across both palms. Blood came through the gauze and onto the collar of the coat. She said stay here. She said it twice.&lt;/p&gt;
 &lt;p&gt;Isabel took her spare coat from the hook by the door. The route was already in her head. She was down the first flight of stairs before Natalie had the door shut behind her.&lt;/p&gt;
@@ -264,7 +297,7 @@
 &lt;article&gt;
 &lt;p&gt;Past midnight the river went over the lip of the old core&amp;#39;s lowest canal. Water stood in the street to the height of a kerb, then a step.&lt;/p&gt;
 &lt;p&gt;Natalie and Isabel were at a corner in the north lanes. Something in the brickwork there might have needed cutting. Neither had decided. Then Natalie&amp;#39;s patch stirred near the canal bridge, hard and low, and her line pulled her south across the city. She went. She told Isabel to wait and not to touch it.&lt;/p&gt;
-&lt;p&gt;Isabel waited eleven minutes. Then she put on the line&amp;#39;s shape and made the cut herself. The thing in the brick was the Hundred and Ninth: Creeping Knotweed. Her hands shook before she started. Halfway through they gave out. The cut hung open in the wall, copper at its edges, not finished.&lt;/p&gt;
+&lt;p&gt;Isabel waited eleven minutes. Then she put on the line&amp;#39;s shape and made the cut herself. The thing in the brick had grown nerves. Nobody had reported it, so it had no number. Her hands shook before she started. Halfway through they gave out. The cut hung open in the wall, copper at its edges, not finished.&lt;/p&gt;
 &lt;p&gt;She stayed in the line&amp;#39;s shape after that, standing in the water.&lt;/p&gt;
 &lt;p&gt;Natalie came back up the lanes at a run, wet to the knee. She stepped between Isabel and the wall and took the cut out of her hands. It bit back. A burn went across both of Natalie&amp;#39;s palms, copper-dark, on top of the cold. The cut closed crooked.&lt;/p&gt;
 &lt;p&gt;The patch at the canal bridge had gone quiet by then. No one went to see what it had done.&lt;/p&gt;
