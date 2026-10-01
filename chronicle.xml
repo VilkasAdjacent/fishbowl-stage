@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-10-01T11:16:44.467Z</updated>
+<updated>2026-10-01T14:11:19.118Z</updated>
 <author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Ironwood · Day 12: The Girl Who Stood Behind the Bin Store Until Four</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0012</id>
+<published>2026-10-01T14:11:19.118Z</published>
+<updated>2026-10-01T14:11:19.118Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0012.html"/>
+<content type="html">&lt;p class=&quot;date&quot;&gt;Monday 9 July 2046, morning&lt;/p&gt;
+&lt;blockquote&gt;Linden Rise: all year groups dismissed 10:00 due to flooding. Please confirm your child has arrived home safely.&lt;cite&gt;a text from the school office to parents&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0012.webp&quot; alt=&quot;A shut door with lamplight beneath it and damp footprints turning away on the step.&quot;/&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;On the ninth, meltwater backed up through the estate drains at Linden Rise and flooded the quad and lower corridors. By ten every year group had been sent home.&lt;/p&gt;
+&lt;p&gt;Amara Nwosu took the free day down the lake path, the moth mascot riding her hood. At the standard she made the cut alone. It was more than one pair of hands could hold, and it got away from her. She came up the bank with her sleeve torn open and copper drying in the cuts.&lt;/p&gt;
+&lt;p&gt;Her mother&amp;#39;s messages about the flood kept coming. She left them unanswered and went the back way toward her room. The drains had taken the footpath. She waded in to the waist, felt it still rising, and turned back.&lt;/p&gt;
+&lt;p&gt;Every message had a right answer, and every answer was a door. Coming in wet at four could be asked about. Standing still could not.&lt;/p&gt;
+&lt;p&gt;She stood out of the wind behind the bin store. Her hands went numb, then shook, and the shivering took the rest of her and did not stop. She never got in.&lt;/p&gt;
+&lt;p&gt;At the eastern wards Elspeth Hale told Hyejin Park the north lanes were clear. She said it level. Hyejin let out a breath and took it, and the line in the register stayed blank.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Hyejin Park, if I might—&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;No. Fuck off. Leave me alone.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Hyejin shut the door. Elspeth Hale stood on the step a moment, then left.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Meltwater backs up through the estate drains and floods the quad and the lower corridors; the school sends every year group home by ten, and Amara takes the free day down the lake path under a hard blue sky with the moth mascot riding her hood. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 6, 3 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Amara takes a cut she can&amp;#39;t handle alone +1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amara tries to slip into her room at Linden Rise unseen, ignoring her mother&amp;#39;s messages about the school flood to hide the torn sleeve and the cuts — and the backed-up meltwater has taken the footpath, so she never gets in and spends the rest of the day out in the thaw, wet through. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 3, 2 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu hurt: wet through to the waist in the thaw cold for hours — hands numb and shaking, the shivering set in and will not stop (2)&lt;/li&gt;&lt;li&gt;Amara takes a cut she can&amp;#39;t handle alone +1&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: The water is the whole of what went wrong — if she waits for dark and slips in quiet, nothing has happened today that anyone can ask her about.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Elspeth Hale tells Hyejin the north lanes are clear — a level, practised lie — and Hyejin takes it, so the blank line in the register stays blank and the blight stays unspoken for another day. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 4 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Elspeth Hale ashamed&lt;/li&gt;&lt;li&gt;Hyejin Park now believes: The north lanes are clear; Elspeth walked them herself, so there is nothing up the valley pulling at her.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin refuses Elspeth outright, cuts her off cold and tells her to leave her alone, and the refusal takes the one person in the wards who came out to meet her. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park estranged from Elspeth Hale&lt;/li&gt;&lt;li&gt;Elspeth Hale estranged from Hyejin Park&lt;/li&gt;&lt;li&gt;Elspeth Hale wary of Hyejin Park&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Ironwood · Day 11: The Girl Who Kept Her Head Down Through Every Bell</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0011</id>
