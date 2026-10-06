@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-10-06T01:04:14.877Z</updated>
+<updated>2026-10-06T14:34:16.206Z</updated>
 <author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Ironwood · Day 19: The Machine That Goes In Under the Science Block</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0019</id>
+<published>2026-10-06T14:34:16.206Z</published>
+<updated>2026-10-06T14:34:16.206Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0019.html"/>
+<content type="html">&lt;p class=&quot;date&quot;&gt;Monday 16 July 2046, morning&lt;/p&gt;
+&lt;blockquote&gt;Drainage works at Linden Rise School begin 22 July. Residents need take no action.&lt;cite&gt;a public-health notice on the eastern wards community feed&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0019.svg&quot; type=&quot;image/svg+xml&quot;/&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0019.webp&quot; alt=&quot;A flat field cut on a slant: a long staff across the frame, copper light running along it. A few small figures stand near it.&quot;/&gt;&lt;/picture&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;Next morning, against the old woman&amp;#39;s wall in the eastern wards, Hyejin Park read a public-health story on the community feed. A contractor&amp;#39;s crawler, a camera on tracks, would go under the Linden Rise School science block on the 22nd. The photograph was the drain lake.&lt;/p&gt;
+&lt;p&gt;The sightings-thread lake. Eleven years unasked, and now the thing sat under a science block on a works order.&lt;/p&gt;
+&lt;p&gt;The story was public; the school thought it drainage. She dismissed it and turned the phone face down, so the telling would not be hers.&lt;/p&gt;
+&lt;p&gt;In the north lanes Isabel asked Elspeth Hale who the city&amp;#39;s call had named.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Routine, Isabel. No second name.&amp;quot; Elspeth said it to keep Natalie out, and it came out practised. Isabel heard that.&lt;/p&gt;
+&lt;p&gt;&amp;quot;I&amp;#39;m fine. Only checking the cut.&amp;quot; She waved Elspeth up the lane, so no liar would stand over it.&lt;/p&gt;
+&lt;p&gt;Her staff came, light up both forearms. The shape would not hold to the blade. She held it anyway, until her fingers opened and the staff fell into the ash.&lt;/p&gt;
+&lt;p&gt;Natalie quit the vigil at Isabel&amp;#39;s flat, to stop listening for the stair. She locked it from outside, Iz&amp;#39;s phone in her pocket, and set off home. The cold sat her down two streets short. Iz would come back to a locked door; Natalie was in neither flat.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The eastern wards community feed carries the public-health story naming the new school and the contractor&amp;#39;s crawler start under the science block on the 22nd, and it reaches Hyejin&amp;#39;s phone where she sits, with a photograph of the drain lake she knows from the sightings thread. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park shaken&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Elspeth tells Isabel the morning call from the city was routine and there was no second name on it, and the girl hears the room behind the words and does not take it. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 1, 5 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Elspeth Hale estranged from Isabel&lt;/li&gt;&lt;li&gt;Isabel now believes: Elspeth said the call from the city was routine and carried no second name, and said it too smoothly — there is a name on that call she has decided to keep from me.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin dismisses the health report and lets the Linden Rise crawler go in under the science block without warning anyone. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, controlled, rolled 5 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Hyejin Park now believes: The health report is on the public feed and the works under the school are booked and named — the warning is already out in the world, so nothing I am holding back can be counted against me.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isabel tells Elspeth she is fine and only checking the cut, and waves her off up the lane, and is left alone at the half-finished cut with the shape still refusing to hold. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5, 6 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel&amp;#39;s hands give out on a cut +1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie locks Isabel&amp;#39;s flat from the outside with Iz&amp;#39;s phone in her pocket and walks off the vigil, and the cold will not let her get as far as her own door. &lt;span class=&quot;roll&quot;&gt;(failure, controlled, rolled 2, 6 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Natalie shaken&lt;/li&gt;&lt;li&gt;Isabel&amp;#39;s phone: now with Natalie&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Ironwood · Day 18: The Witness Who Kept the Second Name in Her Mouth</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0018</id>
