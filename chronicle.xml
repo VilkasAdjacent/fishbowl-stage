@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl</id>
-<updated>2026-10-04T13:10:40.991Z</updated>
+<updated>2026-10-06T01:04:14.877Z</updated>
 <author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Ironwood · Day 18: The Witness Who Kept the Second Name in Her Mouth</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0018</id>
+<published>2026-10-06T01:04:14.877Z</published>
+<updated>2026-10-06T01:04:14.877Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0018.html"/>
+<content type="html">&lt;p class=&quot;date&quot;&gt;Sunday 15 July 2046, morning&lt;/p&gt;
+&lt;blockquote&gt;Your witness will be contacted before the day. There is nothing more you need to do.&lt;cite&gt;a Continuity confirmation letter&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0018.svg&quot; type=&quot;image/svg+xml&quot;/&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0018.webp&quot; alt=&quot;Pencil currents parting round it: a gate standing ajar, a amber mark on its post. A few small figures stand near it.&quot;/&gt;&lt;/picture&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;Next morning, in the north lanes, a Continuity caseworker rang Elspeth Hale to confirm her as Constance Webb&amp;#39;s witness for the 24th. Then, apologetically, she read the file&amp;#39;s second name: Natalie, surname unknown, old core, last contact 2017. Did Miss Hale know how to reach her?&lt;/p&gt;
+&lt;p&gt;They had named her to stand for Constance, and the only other name on that file was one she had buried in 2017. Precedent said a witness answered. She could not, and could not say why.&lt;/p&gt;
+&lt;p&gt;Elspeth gave her nothing, so that Natalie&amp;#39;s name would go no further than the file.&lt;/p&gt;
+&lt;p&gt;She could not feel the pen, so she wrote from the arm. Natalie would not read the line aloud; it could wait on her no longer. It came out cramped and legible: The Hundred and Fourth: Serrated Tussock. The walk-up, the woman, the refusal.&lt;/p&gt;
+&lt;p&gt;At Linden Rise, Amara Nwosu opened the Bay Sightings thread with numb fingers. The unknown handle had replied: where had she stood at the drain, and what had she seen? So the stranger had been to that water too.&lt;/p&gt;
+&lt;p&gt;In the eastern wards, Hyejin Park walked to the old woman&amp;#39;s house with the blue Continuity sticker on its letterbox and sat down against the cold wall past it, so that whoever came for the house would have to move her.&lt;/p&gt;
+&lt;p&gt;Nobody came.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A Continuity caseworker rings Elspeth to confirm her as Constance Webb&amp;#39;s chosen witness for the 24th, and then asks, apologetically, whether she knows how to reach the second name on the file — &amp;#39;Natalie, surname unknown, old core, last contact 2017&amp;#39; — and Elspeth gives her nothing. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 1, 3 (no dice, so two keeping the worst))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Elspeth Hale shaken&lt;/li&gt;&lt;li&gt;Elspeth Hale now believes: Continuity has opened the file and is asking me by name for Natalie, and I am the only person alive who knows where she is and why she will not answer to Constance&amp;#39;s.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amara pulls the thread up on her phone with fingers she cannot feel, and the unknown handle has replied, asking where she stood at the drain and what she saw there.
+&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: The handle on the other end has stood at the drain lake and is asking me to say what I saw, so there is someone who knows that water.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Elspeth forces the blank line in the register with hands that feel nothing, and the Hundred and Fourth goes in at last — the walk-up, the woman, the refusal.
+&lt;ul&gt;&lt;li&gt;the east line register: now with Elspeth Hale&lt;/li&gt;&lt;li&gt;Elspeth Hale now believes: The Hundred and Fourth is written — the walk-up woman is on the register now, and the blank line is closed.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hyejin walks the eastern wards to the house with the blue Continuity sticker on its letterbox, sits down against the cold wall past it, and refuses to move for anyone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Ironwood · Day 17: The Girl Who Would Not Read the Name Aloud</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl:day-0017</id>
@@ -130,7 +161,7 @@
 &lt;li&gt;Dev Okafor&amp;#39;s cut of the Tangle unveiling goes up on the eastern wards feed and the One Life channels, showing Hyejin turning from his camera beside Catherine Lau&amp;#39;s avatar and the brass plaque under the caption &amp;#39;Lab staff still won&amp;#39;t say what happened in 2035&amp;#39;, and the old woman whose beds Hyejin works has it open on her tablet at the kitchen window. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 3 (one die))&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Hyejin Park ashamed&lt;/li&gt;&lt;li&gt;Elspeth Hale now believes: The feed has put Hyejin&amp;#39;s face beside the plaque, so the 2035 question is loose in the wards and the veil will not hold on its own.&lt;/li&gt;&lt;li&gt;Hyejin Park now believes: The cut is up on the wards feed and the old woman at the window has seen it — the thing I stopped in 2035 is out now and will be asked of me.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Amara Nwosu opens the Bay Sightings thread on her phone with shaking fingers and reads the reply still sitting at the top of the board.
-&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: The reply is still at the top of the board and nobody has taken it down — someone has looked at the lake and the thread will not go quiet.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu no longer believes: Her old post is still up and strangers are reading it, so the lake is not as private as she thought it was.&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: The reply is still at the top of the board and nobody has taken it down — someone has looked at the lake and the thread will not go quiet.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Elspeth Hale retries the flooded low crossing alone and gets across this time, reaching Linden Rise with the register under her arm. &lt;span class=&quot;roll&quot;&gt;(clean, risky, rolled 6 (one die))&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Elspeth Hale buoyed&lt;/li&gt;&lt;li&gt;Elspeth Hale now believes: The low crossing was passable today and I am across — the blank line can be filled and I will see whose line the drain lake is.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Hyejin Park keeps her head down and spades the frozen mulch without looking up at the kitchen window where the old woman has the feed open on her tablet.
@@ -160,7 +191,7 @@
 &lt;h2&gt;Log&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Amara takes two more cuts at the drain lake, clean and quick and alone, and each one makes the next look smaller than it is — and what is under the culvert is bigger than anything she has met. &lt;span class=&quot;roll&quot;&gt;(failure)&lt;/span&gt;
-&lt;ul&gt;&lt;li&gt;Amara Nwosu hurt: two more cuts taken alone, and the line under the tie has opened the whole length of her forearm — the buzz is constant now and the next one is bigger than she is (2)&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: Two clean cuts and the buzz went quiet — the next will be smaller still, and she can take it alone without anyone at home ever knowing.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu hurt: two more cuts taken alone, and the line under the tie has opened the whole length of her forearm — the buzz is constant now and the next one is bigger than she is (2)&lt;/li&gt;&lt;li&gt;Amara Nwosu no longer believes: Two small cuts and she took them alone — the next will be smaller still, and the standard is close enough to reach without anyone at home ever knowing.&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: Two clean cuts and the buzz went quiet — the next will be smaller still, and she can take it alone without anyone at home ever knowing.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;The Linden Rise post draws its first reply in days from a handle nobody knows — &amp;#39;still there? looked bigger from the footpath this morning&amp;#39; — and the thread jumps to the top of Bay Sightings, where Hyejin&amp;#39;s phone lights with it on the eastern wards footpath and Amara&amp;#39;s reinstalled app shows her old post answered. &lt;span class=&quot;roll&quot;&gt;(clean, risky, rolled 6 (one die))&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Elspeth Hale buoyed&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: Her old post is still up and strangers are reading it, so the lake is not as private as she thought it was.&lt;/li&gt;&lt;li&gt;Elspeth Hale now believes: Someone has walked the footpath past the Linden Rise lake and seen it bigger, so a girl is going down there and the register will have to say whose line it is.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Amara waits out the daylight in the unheated garden shed, ignoring her mother&amp;#39;s flood messages rather than walk in wet and cut, and the light goes before she moves. &lt;span class=&quot;roll&quot;&gt;(failure, controlled, rolled 4, 1 (no dice, so two keeping the worst))&lt;/span&gt;
@@ -264,7 +295,7 @@
 &lt;li&gt;At the Tangle fence the council unveils the 2035 anniversary plaque — brass naming Dr Catherine Lau, her avatar speaking from a screen beside it — and when a campaign journalist turns his camera on Hyejin and asks what she remembers of the night the block went green, the pressure beats her: she answers before she can stop herself, on the record. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2 (one die))&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Hyejin Park lost her quiet — the campaign now has her face, her plot, and her answer on record&lt;/li&gt;&lt;li&gt;Hyejin Park shaken&lt;/li&gt;&lt;li&gt;Hyejin Park now believes: The journalist got his answer and will not come back — the question is closed and she is out of it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;At break Amara locks herself in a toilet cubicle, washes the cuts on her forearm and winds the makeshift bandage tight, and comes out with her sleeve down and nothing on her face.
-&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: The bandage and the sleeve are enough — she can keep the whole of it behind the stall door and no one will ever have to know.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu no longer believes: That the cut is bound and the sleeve covers it, so nothing happened this morning that anyone can ask her about.&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: The bandage and the sleeve are enough — she can keep the whole of it behind the stall door and no one will ever have to know.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Elspeth Hale walks up into the north lanes to see the blight for herself before anyone registers it — the cut still half-done, the growth already spread where the line has gone quiet.
 &lt;ul&gt;&lt;li&gt;Elspeth Hale now believes: The north lanes blight is spreading as blight always does where a line has gone quiet, and once she has entered it the register will be right again.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Hyejin Park walks the canal bridge in the cold and passes the iron hatch without lifting the lid, leaving the freezing girl underneath — the girl stays off the lane, and Hyejin keeps walking. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, desperate, rolled 4 (one die))&lt;/span&gt;
@@ -450,7 +481,7 @@
 &lt;li&gt;Mrs Vella from downstairs comes out under the fire stair with a thermos and two chipped mugs for whoever is standing in the rain looking at the flowers, and tells them it&amp;#39;s the best thing that&amp;#39;s happened to the lane in the forty years she&amp;#39;s lived on it. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2)&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Isabel hurt: stands out in the sideways rain with a mug in her hands to be polite to Mrs Vella, and the cold she was already carrying goes deeper — colder and shaking harder than when she came down&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: The flowers in the lane are what the buzz was pointing at — if she can learn to make something like that, she will have the one thing nobody at home can mark.&lt;/li&gt;&lt;li&gt;Isabel now believes: Mrs Vella has lived on the lane forty years and calls the flowers the best thing that has ever happened to it, so the lane is safe and wanted and nothing bad can come of it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Amara Nwosu flees back toward the tram before curfew so her parents don&amp;#39;t catch her marks slipping further.
-&lt;ul&gt;&lt;li&gt;Amara Nwosu now believes: She got back to Linden Rise before curfew and nobody noticed she was gone, so she can keep going down there alone.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu no longer believes: Whatever is at the far end of the buzz is no bigger than the last two, and she can take it alone without anyone at home ever knowing.&lt;/li&gt;&lt;li&gt;Amara Nwosu now believes: She got back to Linden Rise before curfew and nobody noticed she was gone, so she can keep going down there alone.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Hyejin Park battens down the polytunnels and garden frames against the driving rain.
 &lt;ul&gt;&lt;li&gt;Hyejin Park now believes: The frames are down and the warning did its work — the girl stayed home and nothing more is needed from her tonight.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Isabel walks off, leaving the lane alone in the rain without coat or phone and telling no one, so Natalie finds her gone. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, desperate, rolled 5, 5)&lt;/span&gt;
@@ -490,7 +521,7 @@
 &lt;li&gt;Isabel goes down in the rain to the fire-stair lane to look at midwinter flowers the ash from her blaze-out put there, while the neighbours are still out photographing them. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, controlled, rolled 4, 3)&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Isabel hurt: down in the sideways rain on no sleep: soaked to the skin and shaking harder than when she left, hands aching and stiff in the cold&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Natalie refuses to answer Isabel about the kiss — she takes Isabel&amp;#39;s coat and phone and locks them in the bathroom instead — and the burn across both palms splits open again forcing the door. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 2, 2)&lt;/span&gt;
-&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across both palms splits open again forcing the bathroom door shut, weeping through the wrap, and she can&amp;#39;t properly close her fingers (2)&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie locked her coat and her phone in the bathroom rather than answer, so the kiss is the answer — Natalie has decided it was a mistake, and so is she.&lt;/li&gt;&lt;li&gt;Natalie now believes: Locking the phone in the bathroom bought a night, not an answer; Iz will read the door as the answer and act on it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across both palms splits open again forcing the bathroom door shut, weeping through the wrap, and she can&amp;#39;t properly close her fingers (2)&lt;/li&gt;&lt;li&gt;Natalie no longer believes: Ordering Iz to stay put has never held anyone, and it has just cost her the use of her hands again.&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie locked her coat and her phone in the bathroom rather than answer, so the kiss is the answer — Natalie has decided it was a mistake, and so is she.&lt;/li&gt;&lt;li&gt;Natalie now believes: Locking the phone in the bathroom bought a night, not an answer; Iz will read the door as the answer and act on it.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;</content>
 </entry>
@@ -522,7 +553,7 @@
 &lt;li&gt;Isabel asks Natalie point-blank whether she took the cut out of her hands because of last night, and the question is out of her mouth and cannot be put back. &lt;span class=&quot;roll&quot;&gt;(success-with-cost, risky, rolled 5)&lt;/span&gt;
 &lt;ul&gt;&lt;li&gt;Isabel lost the silence she had kept about the kiss — she has asked the question out loud and it cannot be taken back&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Natalie lifts Isabel&amp;#39;s coat and phone off the desk and orders her to stay put, and the grab splits the burn across her palms, and the order doesn&amp;#39;t hold. &lt;span class=&quot;roll&quot;&gt;(failure, desperate, rolled 3, 3)&lt;/span&gt;
-&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across her palms, split open again when she grabbed Iz&amp;#39;s coat and phone off the desk&lt;/li&gt;&lt;li&gt;Isabel and Natalie -1&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie took the cut out of her hands and then took her coat and her phone off the desk because of last night — the kiss is why she can&amp;#39;t be trusted with the work.&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie has already decided about the kiss and isn&amp;#39;t going to say it; the coat and the phone off the desk are the answer.&lt;/li&gt;&lt;li&gt;Natalie now believes: Ordering Iz to stay put has never held anyone, and it has just cost her the use of her hands again.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Natalie hurt: the burn across her palms, split open again when she grabbed Iz&amp;#39;s coat and phone off the desk&lt;/li&gt;&lt;li&gt;Isabel and Natalie -1&lt;/li&gt;&lt;li&gt;Isabel no longer believes: Natalie took the cut out of her hands because she&amp;#39;s decided Isabel can&amp;#39;t be trusted with the work.&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie took the cut out of her hands and then took her coat and her phone off the desk because of last night — the kiss is why she can&amp;#39;t be trusted with the work.&lt;/li&gt;&lt;li&gt;Isabel now believes: Natalie has already decided about the kiss and isn&amp;#39;t going to say it; the coat and the phone off the desk are the answer.&lt;/li&gt;&lt;li&gt;Natalie now believes: Ordering Iz to stay put has never held anyone, and it has just cost her the use of her hands again.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;</content>
 </entry>
