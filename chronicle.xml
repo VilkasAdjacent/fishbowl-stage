@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Ironwood</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl/run-2</id>
-<updated>2026-10-09T05:49:29.845Z</updated>
+<updated>2026-10-10T14:05:05.878Z</updated>
 <author><name>Ironwood</name></author>
 <link rel="self" type="application/atom+xml" href="https://vilkasadjacent.github.io/fishbowl-stage/chronicle.xml"/>
 <link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/"/>
+<entry>
+<title>Ironwood · Day 2: The Girl Who Stopped Halfway Down the Road</title>
+<id>tag:vilkasadjacent.github.io,2026:fishbowl/run-2:day-0002</id>
+<published>2026-10-10T14:05:05.878Z</published>
+<updated>2026-10-10T14:05:05.878Z</updated>
+<link rel="alternate" type="text/html" href="https://vilkasadjacent.github.io/fishbowl-stage/days/0002.html"/>
+<content type="html">&lt;p class=&quot;date&quot;&gt;Wednesday 4 July 2046, afternoon&lt;/p&gt;
+&lt;blockquote&gt;IT&amp;#39;S YOUR HALL. DON&amp;#39;T LET THEM DECIDE WITHOUT YOU.&lt;cite&gt;Hall-vote leaflet, handed out at the Culvert Road junction&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;plate&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0002.svg&quot; type=&quot;image/svg+xml&quot;/&gt;&lt;img src=&quot;https://vilkasadjacent.github.io/fishbowl-stage/plates/0002.webp&quot; alt=&quot;The page cracking outward from it: a long staff across the frame, copper light running along it. Two small figures stand near it.&quot;/&gt;&lt;/picture&gt;&lt;/figure&gt;
+&lt;article&gt;
+&lt;p&gt;By afternoon the drizzle had stopped. Amara Nwosu left the bench at Linden Rise and set out with her meter for the Tangle, to take a reading off something other than the grate. At the Culvert Road junction a survey van with a council sign and Second Growth on its door stood across the pavement, and a clump of people were handing out leaflets about the hall vote. The needle jumped past its felt-tip marks. She could not get by without pushing through them, the box shrieking, so she turned back. Her hands shook all the way.&lt;/p&gt;
+&lt;p&gt;In Natalie&amp;#39;s flat, Isabel asked her to come to the cuts and stay close, so she would know where Natalie was. Natalie said she was not going near the north cut, and would not say why.&lt;/p&gt;
+&lt;p&gt;The north cut was a blight Isabel had opened and left before its root was dead; left alone, a seam closes back over. Because it would not wait, Natalie asked Isabel to finish it now, with her watching. Isabel held up her hands. They would not hold, she said.&lt;/p&gt;
+&lt;p&gt;Natalie took her coat and went alone. Isabel watched her stop halfway to the north cut.&lt;/p&gt;
+&lt;p&gt;Nat stood with the itch at the back of her neck. Go on, and Iz sat in the flat alone with those hands. Girls left alone did not keep. The waiting was the part she knew.&lt;/p&gt;
+&lt;p&gt;She did not go on. The north cut&amp;#39;s seam closed a little further over.&lt;/p&gt;
+&lt;/article&gt;
+&lt;section class=&quot;log&quot;&gt;
+&lt;h2&gt;Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amara set out with her signal meter to the Tangle and got only as far as the Culvert Road junction, where a Second Growth survey van and a clump of people with hall-vote leaflets blocked the pavement, and her meter spiked and jumped until she turned back. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 3 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Amara Nwosu shaken&lt;/li&gt;&lt;li&gt;Amara&amp;#39;s signal meter: now with Amara Nwosu&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isabel asked Natalie to stay close and come with her to the cuts, and Natalie said she wasn&amp;#39;t coming to the north cut and wouldn&amp;#39;t say why. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;Isabel now believes: That Natalie is pulling away from her and won&amp;#39;t come to the cuts because of last night.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Natalie asked Isabel to finish the north cut and watch her cut, and Isabel said her hands wouldn&amp;#39;t hold; Natalie got as far as the road between the flat and the north cut before she was stopped, and the north cut&amp;#39;s seam closed a little further over. &lt;span class=&quot;roll&quot;&gt;(failure, risky, rolled 2 (one die))&lt;/span&gt;
+&lt;ul&gt;&lt;li&gt;The north cut&amp;#39;s seam closes over +1&lt;/li&gt;&lt;li&gt;Natalie now believes: That Iz&amp;#39;s hands are shaking too badly to cut, and she won&amp;#39;t go to the north cut today.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</content>
+</entry>
 <entry>
 <title>Ironwood · Day 1: The Answer Given in Daylight on the Canal Bank</title>
 <id>tag:vilkasadjacent.github.io,2026:fishbowl/run-2:day-0001</id>
